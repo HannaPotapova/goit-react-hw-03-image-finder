@@ -26,3 +26,9 @@
 .Button:focus {
     background-color: #303f9f;
 }
+
+.Button_placing {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    text-align: center;
+}
